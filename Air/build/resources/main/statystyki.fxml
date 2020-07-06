@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.chart.CategoryAxis?>
+<?import javafx.scene.chart.NumberAxis?>
+<?import javafx.scene.chart.ScatterChart?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ChoiceBox?>
+<?import javafx.scene.control.DatePicker?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.effect.InnerShadow?>
+<?import javafx.scene.effect.SepiaTone?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.paint.LinearGradient?>
+<?import javafx.scene.paint.RadialGradient?>
+<?import javafx.scene.paint.Stop?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="StatystykiController">
+   <children>
+      <ImageView fitHeight="621.0" fitWidth="874.0" layoutX="-5.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@forest.jpg" />
+         </image>
+      </ImageView>
+      <Label fx:id="labelParametr1" layoutX="52.0" layoutY="195.0" text="Liczba pomiarów:">
+         <font>
+            <Font name="Century Gothic" size="15.0" />
+         </font>
+      </Label>
+      <Text fx:id="textLiczbaPomiarow" layoutX="325.0" layoutY="209.0" strokeType="OUTSIDE" strokeWidth="0.0" text="liczba pomiarow">
+         <font>
+            <Font name="Century Gothic" size="12.0" />
+         </font>
+      </Text>
+      <Label fx:id="labelMin" layoutX="54.0" layoutY="120.0" text="Minimalny pomiar:">
+         <font>
+            <Font name="Century Gothic" size="15.0" />
+         </font>
+      </Label>
+      <Label fx:id="labelMax" layoutX="54.0" layoutY="145.0" text="Maksymalny pomiar:">
+         <font>
+            <Font name="Century Gothic" size="15.0" />
+         </font>
+      </Label>
+      <Label fx:id="labelOdchylenie" layoutX="52.0" layoutY="170.0" text="Odchylenie standardowe:">
+         <font>
+            <Font name="Century Gothic" size="15.0" />
+         </font>
+      </Label>
+      <Text fx:id="textMin" layoutX="325.0" layoutY="134.0" strokeType="OUTSIDE" strokeWidth="0.0" text="min">
+         <font>
+            <Font name="Century Gothic" size="12.0" />
+         </font>
+      </Text>
+      <Text fx:id="textMax" layoutX="325.0" layoutY="159.0" strokeType="OUTSIDE" strokeWidth="0.0" text="max">
+         <font>
+            <Font name="Century Gothic" size="12.0" />
+         </font>
+      </Text>
+      <Text fx:id="textOdchylenie" layoutX="325.0" layoutY="184.0" strokeType="OUTSIDE" strokeWidth="0.0" text="odchylenie">
+         <font>
+            <Font name="Century Gothic" size="12.0" />
+         </font>
+      </Text>
+      <ScatterChart fx:id="chartStosunekDoNorm" layoutX="63.0" layoutY="289.0" legendVisible="false" prefHeight="311.0" prefWidth="359.0" title="Wartości parametru w funkcji czasu">
+        <xAxis>
+          <CategoryAxis animated="false" tickLabelFill="WHITE" />
+        </xAxis>
+        <yAxis>
+          <NumberAxis side="LEFT" tickLabelFill="WHITE" />
+        </yAxis>
+      </ScatterChart>
+      <Label fx:id="labelOcena" layoutX="50.0" layoutY="245.0" text="Ocena:">
+         <font>
+            <Font name="Century Gothic" size="15.0" />
+         </font>
+      </Label>
+      <Text fx:id="textOcena" layoutX="325.0" layoutY="259.0" strokeType="OUTSIDE" strokeWidth="0.0">
+         <font>
+            <Font name="Century Gothic" size="12.0" />
+         </font>
+      </Text>
+      <TextArea fx:id="textAreaGodzinaPomiar" editable="false" layoutX="586.0" layoutY="325.0" prefHeight="202.0" prefWidth="218.0" wrapText="true">
+         <effect>
+            <InnerShadow color="#25e8e2d7" />
+         </effect>
+      </TextArea>
+      <ChoiceBox fx:id="choiceBoxWybierzParametr" layoutX="365.0" layoutY="62.0" prefWidth="150.0" />
+      <Button fx:id="buttonZapiszDane" layoutX="653.0" layoutY="197.0" mnemonicParsing="false" onAction="#buttonZapiszDanePressed" text="Zapisz dane" textFill="#075c11">
+         <font>
+            <Font name="Century Gothic" size="15.0" />
+         </font>
+         <effect>
+            <SepiaTone />
+         </effect>
+      </Button>
+      <Text fx:id="textWpiszNazweMiasta" layoutX="69.0" layoutY="43.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Wpisz nazwę miasta">
+         <font>
+            <Font name="Century Gothic" size="22.0" />
+         </font>
+         <fill>
+            <LinearGradient endX="0.5114503379996496" endY="0.2786259250786468" startX="0.503816816187997" startY="1.0">
+               <stops>
+                  <Stop color="#0a6113" />
+                  <Stop color="#07490e" offset="0.010657887069518094" />
+                  <Stop color="#009bc2" offset="1.0" />
+               </stops>
+            </LinearGradient>
+         </fill>
+      </Text>
+      <TextField fx:id="textFieldNazwaMiasta" layoutX="101.0" layoutY="62.0" onAction="#textFieldNazwaMiastaOnAction" />
+      <Text fx:id="textWybierzInteresujacaDate" layoutX="615.0" layoutY="44.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Wybierz datę">
+         <font>
+            <Font name="Century Gothic" size="22.0" />
+         </font>
+         <fill>
+            <LinearGradient endX="0.5114503379996496" endY="0.2786259250786468" startX="0.503816816187997" startY="1.0">
+               <stops>
+                  <Stop color="#0a6113" />
+                  <Stop color="#07490e" offset="0.010657887069518094" />
+                  <Stop color="#009bc2" offset="1.0" />
+               </stops>
+            </LinearGradient>
+         </fill>
+      </Text>
+      <DatePicker fx:id="datePickerWybierzDate" layoutX="608.0" layoutY="62.0" onAction="#datePickerWybierzDate" />
+      <Text fx:id="textWybierzParametr" layoutX="346.0" layoutY="44.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Wybierz parametr">
+         <font>
+            <Font name="Century Gothic" size="22.0" />
+         </font>
+         <fill>
+            <LinearGradient endX="0.5114503379996496" endY="0.2786259250786468" startX="0.503816816187997" startY="1.0">
+               <stops>
+                  <Stop color="#0a6113" />
+                  <Stop color="#07490e" offset="0.010657887069518094" />
+                  <Stop color="#009bc2" offset="1.0" />
+               </stops>
+            </LinearGradient>
+         </fill>
+      </Text>
+      <Button fx:id="buttonZatwierdzParam" layoutX="660.0" layoutY="115.0" mnemonicParsing="false" onAction="#buttonZatwierdzParametrOnAction" text="Zatwierdź " textFill="#075c11">
+         <font>
+            <Font name="Century Gothic" size="15.0" />
+         </font>
+         <effect>
+            <SepiaTone />
+         </effect>
+      </Button>
+      <Button fx:id="buttonStatystyki" layoutX="641.0" layoutY="155.0" mnemonicParsing="false" onAction="#buttonStatystykiPressed" text="Pokaż statystyki" textFill="#075c11">
+         <font>
+            <Font name="Century Gothic" size="15.0" />
+         </font>
+         <effect>
+            <SepiaTone />
+         </effect>
+      </Button>
+      <Label fx:id="labelSrednia" layoutX="52.0" layoutY="220.0" text="Średnia wartość:">
+         <font>
+            <Font name="Century Gothic" size="15.0" />
+         </font>
+      </Label>
+      <Text fx:id="textSrednia" layoutX="325.0" layoutY="234.0" strokeType="OUTSIDE" strokeWidth="0.0" text="srednia">
+         <font>
+            <Font name="Century Gothic" size="12.0" />
+         </font>
+      </Text>
+      <Text fx:id="textInfo" layoutX="540.0" layoutY="251.0" strokeType="OUTSIDE" strokeWidth="0.0">
+         <font>
+            <Font name="Century Gothic" size="12.0" />
+         </font>
+         <fill>
+            <RadialGradient centerX="0.5" centerY="0.5" radius="0.5">
+               <stops>
+                  <Stop color="RED" />
+                  <Stop color="#670d0d" offset="1.0" />
+               </stops>
+            </RadialGradient>
+         </fill>
+      </Text>
+      <Text fx:id="textMiasto" layoutX="162.0" layoutY="108.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Miasto" />
+      <Button fx:id="buttonWczytajDane" layoutX="646.0" layoutY="240.0" mnemonicParsing="false" onAction="#buttonWczytajDanePressed" text="Wczytaj dane" textFill="#075c11">
+         <font>
+            <Font name="Century Gothic" size="15.0" />
+         </font>
+         <effect>
+            <SepiaTone />
+         </effect>
+      </Button>
+   </children>
+</AnchorPane>

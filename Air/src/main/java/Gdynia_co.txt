@@ -1,0 +1,1600 @@
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-11T11:00:00+01:00",
+    "utc": "2020-02-11T10:00:00.000Z"
+  },
+  "value": 434.249,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-11T10:00:00+01:00",
+    "utc": "2020-02-11T09:00:00.000Z"
+  },
+  "value": 440.11499999999995,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-11T09:00:00+01:00",
+    "utc": "2020-02-11T08:00:00.000Z"
+  },
+  "value": 450.277,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-11T08:00:00+01:00",
+    "utc": "2020-02-11T07:00:00.000Z"
+  },
+  "value": 468.247,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-11T07:00:00+01:00",
+    "utc": "2020-02-11T06:00:00.000Z"
+  },
+  "value": 436.893,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-11T06:00:00+01:00",
+    "utc": "2020-02-11T05:00:00.000Z"
+  },
+  "value": 426.08299999999997,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-11T05:00:00+01:00",
+    "utc": "2020-02-11T04:00:00.000Z"
+  },
+  "value": 419.14,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-11T04:00:00+01:00",
+    "utc": "2020-02-11T03:00:00.000Z"
+  },
+  "value": 414.614,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-11T03:00:00+01:00",
+    "utc": "2020-02-11T02:00:00.000Z"
+  },
+  "value": 409.529,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-11T02:00:00+01:00",
+    "utc": "2020-02-11T01:00:00.000Z"
+  },
+  "value": 401.226,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-11T01:00:00+01:00",
+    "utc": "2020-02-11T00:00:00.000Z"
+  },
+  "value": 401.798,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-11T00:00:00+01:00",
+    "utc": "2020-02-10T23:00:00.000Z"
+  },
+  "value": 401.992,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-10T23:00:00+01:00",
+    "utc": "2020-02-10T22:00:00.000Z"
+  },
+  "value": 398.381,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-10T22:00:00+01:00",
+    "utc": "2020-02-10T21:00:00.000Z"
+  },
+  "value": 403.675,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-10T21:00:00+01:00",
+    "utc": "2020-02-10T20:00:00.000Z"
+  },
+  "value": 403.31899999999996,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-10T20:00:00+01:00",
+    "utc": "2020-02-10T19:00:00.000Z"
+  },
+  "value": 408.55,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-10T19:00:00+01:00",
+    "utc": "2020-02-10T18:00:00.000Z"
+  },
+  "value": 403.263,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-10T18:00:00+01:00",
+    "utc": "2020-02-10T17:00:00.000Z"
+  },
+  "value": 406.092,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-10T17:00:00+01:00",
+    "utc": "2020-02-10T16:00:00.000Z"
+  },
+  "value": 413.07500000000005,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-10T16:00:00+01:00",
+    "utc": "2020-02-10T15:00:00.000Z"
+  },
+  "value": 416.315,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-10T15:00:00+01:00",
+    "utc": "2020-02-10T14:00:00.000Z"
+  },
+  "value": 417.03000000000003,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-10T14:00:00+01:00",
+    "utc": "2020-02-10T13:00:00.000Z"
+  },
+  "value": 420.21,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-10T13:00:00+01:00",
+    "utc": "2020-02-10T12:00:00.000Z"
+  },
+  "value": 399.27299999999997,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-10T12:00:00+01:00",
+    "utc": "2020-02-10T11:00:00.000Z"
+  },
+  "value": 402.40700000000004,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-10T11:00:00+01:00",
+    "utc": "2020-02-10T10:00:00.000Z"
+  },
+  "value": 397.97700000000003,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-10T10:00:00+01:00",
+    "utc": "2020-02-10T09:00:00.000Z"
+  },
+  "value": 400.289,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-10T09:00:00+01:00",
+    "utc": "2020-02-10T08:00:00.000Z"
+  },
+  "value": 393.53,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-10T08:00:00+01:00",
+    "utc": "2020-02-10T07:00:00.000Z"
+  },
+  "value": 408.63,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-10T07:00:00+01:00",
+    "utc": "2020-02-10T06:00:00.000Z"
+  },
+  "value": 439.224,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-10T06:00:00+01:00",
+    "utc": "2020-02-10T05:00:00.000Z"
+  },
+  "value": 444.69199999999995,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-10T05:00:00+01:00",
+    "utc": "2020-02-10T04:00:00.000Z"
+  },
+  "value": 441.24,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-10T04:00:00+01:00",
+    "utc": "2020-02-10T03:00:00.000Z"
+  },
+  "value": 437.649,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-10T02:00:00+01:00",
+    "utc": "2020-02-10T01:00:00.000Z"
+  },
+  "value": 462.694,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-10T01:00:00+01:00",
+    "utc": "2020-02-10T00:00:00.000Z"
+  },
+  "value": 480.726,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-10T00:00:00+01:00",
+    "utc": "2020-02-09T23:00:00.000Z"
+  },
+  "value": 489.548,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-09T23:00:00+01:00",
+    "utc": "2020-02-09T22:00:00.000Z"
+  },
+  "value": 504.136,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-09T22:00:00+01:00",
+    "utc": "2020-02-09T21:00:00.000Z"
+  },
+  "value": 521.578,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-09T21:00:00+01:00",
+    "utc": "2020-02-09T20:00:00.000Z"
+  },
+  "value": 555.121,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-09T20:00:00+01:00",
+    "utc": "2020-02-09T19:00:00.000Z"
+  },
+  "value": 560.2629999999999,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-09T19:00:00+01:00",
+    "utc": "2020-02-09T18:00:00.000Z"
+  },
+  "value": 549.936,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-09T18:00:00+01:00",
+    "utc": "2020-02-09T17:00:00.000Z"
+  },
+  "value": 550.276,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-09T17:00:00+01:00",
+    "utc": "2020-02-09T16:00:00.000Z"
+  },
+  "value": 544.231,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-09T16:00:00+01:00",
+    "utc": "2020-02-09T15:00:00.000Z"
+  },
+  "value": 529.65,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-09T15:00:00+01:00",
+    "utc": "2020-02-09T14:00:00.000Z"
+  },
+  "value": 547.491,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-09T14:00:00+01:00",
+    "utc": "2020-02-09T13:00:00.000Z"
+  },
+  "value": 566.994,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-09T13:00:00+01:00",
+    "utc": "2020-02-09T12:00:00.000Z"
+  },
+  "value": 597.3889999999999,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-09T12:00:00+01:00",
+    "utc": "2020-02-09T11:00:00.000Z"
+  },
+  "value": 628.715,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-09T11:00:00+01:00",
+    "utc": "2020-02-09T10:00:00.000Z"
+  },
+  "value": 575.7560000000001,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-09T10:00:00+01:00",
+    "utc": "2020-02-09T09:00:00.000Z"
+  },
+  "value": 586.688,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-09T09:00:00+01:00",
+    "utc": "2020-02-09T08:00:00.000Z"
+  },
+  "value": 634.3870000000001,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-09T08:00:00+01:00",
+    "utc": "2020-02-09T07:00:00.000Z"
+  },
+  "value": 596.933,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-09T07:00:00+01:00",
+    "utc": "2020-02-09T06:00:00.000Z"
+  },
+  "value": 553.022,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-09T06:00:00+01:00",
+    "utc": "2020-02-09T05:00:00.000Z"
+  },
+  "value": 555.624,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-09T05:00:00+01:00",
+    "utc": "2020-02-09T04:00:00.000Z"
+  },
+  "value": 565.628,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-09T04:00:00+01:00",
+    "utc": "2020-02-09T03:00:00.000Z"
+  },
+  "value": 562.7370000000001,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-09T03:00:00+01:00",
+    "utc": "2020-02-09T02:00:00.000Z"
+  },
+  "value": 591.236,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-09T02:00:00+01:00",
+    "utc": "2020-02-09T01:00:00.000Z"
+  },
+  "value": 642.7389999999999,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-09T01:00:00+01:00",
+    "utc": "2020-02-09T00:00:00.000Z"
+  },
+  "value": 603.952,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-09T00:00:00+01:00",
+    "utc": "2020-02-08T23:00:00.000Z"
+  },
+  "value": 630.3,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-08T23:00:00+01:00",
+    "utc": "2020-02-08T22:00:00.000Z"
+  },
+  "value": 681.605,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-08T22:00:00+01:00",
+    "utc": "2020-02-08T21:00:00.000Z"
+  },
+  "value": 770.596,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-08T21:00:00+01:00",
+    "utc": "2020-02-08T20:00:00.000Z"
+  },
+  "value": 685.036,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-08T20:00:00+01:00",
+    "utc": "2020-02-08T19:00:00.000Z"
+  },
+  "value": 665.534,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-08T19:00:00+01:00",
+    "utc": "2020-02-08T18:00:00.000Z"
+  },
+  "value": 733.012,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-08T18:00:00+01:00",
+    "utc": "2020-02-08T17:00:00.000Z"
+  },
+  "value": 904.1289999999999,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-08T17:00:00+01:00",
+    "utc": "2020-02-08T16:00:00.000Z"
+  },
+  "value": 684.852,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-08T16:00:00+01:00",
+    "utc": "2020-02-08T15:00:00.000Z"
+  },
+  "value": 597.948,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-08T15:00:00+01:00",
+    "utc": "2020-02-08T14:00:00.000Z"
+  },
+  "value": 556.098,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-08T14:00:00+01:00",
+    "utc": "2020-02-08T13:00:00.000Z"
+  },
+  "value": 512.05,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-08T13:00:00+01:00",
+    "utc": "2020-02-08T12:00:00.000Z"
+  },
+  "value": 512.021,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-08T12:00:00+01:00",
+    "utc": "2020-02-08T11:00:00.000Z"
+  },
+  "value": 495.12,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-08T11:00:00+01:00",
+    "utc": "2020-02-08T10:00:00.000Z"
+  },
+  "value": 524.507,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-08T10:00:00+01:00",
+    "utc": "2020-02-08T09:00:00.000Z"
+  },
+  "value": 819.219,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-08T09:00:00+01:00",
+    "utc": "2020-02-08T08:00:00.000Z"
+  },
+  "value": 756.759,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-08T08:00:00+01:00",
+    "utc": "2020-02-08T07:00:00.000Z"
+  },
+  "value": 743.001,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-08T07:00:00+01:00",
+    "utc": "2020-02-08T06:00:00.000Z"
+  },
+  "value": 620.561,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-08T06:00:00+01:00",
+    "utc": "2020-02-08T05:00:00.000Z"
+  },
+  "value": 577.399,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-08T05:00:00+01:00",
+    "utc": "2020-02-08T04:00:00.000Z"
+  },
+  "value": 499.776,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-08T04:00:00+01:00",
+    "utc": "2020-02-08T03:00:00.000Z"
+  },
+  "value": 505.66299999999995,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-08T03:00:00+01:00",
+    "utc": "2020-02-08T02:00:00.000Z"
+  },
+  "value": 537.092,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-08T02:00:00+01:00",
+    "utc": "2020-02-08T01:00:00.000Z"
+  },
+  "value": 539.125,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-08T01:00:00+01:00",
+    "utc": "2020-02-08T00:00:00.000Z"
+  },
+  "value": 558.913,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-08T00:00:00+01:00",
+    "utc": "2020-02-07T23:00:00.000Z"
+  },
+  "value": 571.4019999999999,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-07T23:00:00+01:00",
+    "utc": "2020-02-07T22:00:00.000Z"
+  },
+  "value": 636.908,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-07T22:00:00+01:00",
+    "utc": "2020-02-07T21:00:00.000Z"
+  },
+  "value": 718.625,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-07T21:00:00+01:00",
+    "utc": "2020-02-07T20:00:00.000Z"
+  },
+  "value": 750.2090000000001,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-07T20:00:00+01:00",
+    "utc": "2020-02-07T19:00:00.000Z"
+  },
+  "value": 932.909,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-07T19:00:00+01:00",
+    "utc": "2020-02-07T18:00:00.000Z"
+  },
+  "value": 980.8149999999999,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-07T18:00:00+01:00",
+    "utc": "2020-02-07T17:00:00.000Z"
+  },
+  "value": 1069.34,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-07T16:00:00+01:00",
+    "utc": "2020-02-07T15:00:00.000Z"
+  },
+  "value": 484.722,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-07T15:00:00+01:00",
+    "utc": "2020-02-07T14:00:00.000Z"
+  },
+  "value": 473.994,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-07T14:00:00+01:00",
+    "utc": "2020-02-07T13:00:00.000Z"
+  },
+  "value": 456.664,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-07T13:00:00+01:00",
+    "utc": "2020-02-07T12:00:00.000Z"
+  },
+  "value": 452.608,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-07T12:00:00+01:00",
+    "utc": "2020-02-07T11:00:00.000Z"
+  },
+  "value": 429.836,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-07T11:00:00+01:00",
+    "utc": "2020-02-07T10:00:00.000Z"
+  },
+  "value": 420.348,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-07T10:00:00+01:00",
+    "utc": "2020-02-07T09:00:00.000Z"
+  },
+  "value": 457.031,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-07T09:00:00+01:00",
+    "utc": "2020-02-07T08:00:00.000Z"
+  },
+  "value": 658.8739999999999,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-07T08:00:00+01:00",
+    "utc": "2020-02-07T07:00:00.000Z"
+  },
+  "value": 459.48499999999996,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-07T07:00:00+01:00",
+    "utc": "2020-02-07T06:00:00.000Z"
+  },
+  "value": 436.716,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}
+{
+  "location": "AM4 Gdynia Pogórze",
+  "parameter": "co",
+  "date": {
+    "local": "2020-02-07T06:00:00+01:00",
+    "utc": "2020-02-07T05:00:00.000Z"
+  },
+  "value": 400.083,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 54.560836,
+    "longitude": 18.493331
+  },
+  "country": "PL",
+  "city": "Gdynia"
+}

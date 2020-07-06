@@ -1,0 +1,1600 @@
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-11T12:00:00+01:00",
+    "utc": "2020-02-11T11:00:00.000Z"
+  },
+  "value": 56.9653,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-11T11:00:00+01:00",
+    "utc": "2020-02-11T10:00:00.000Z"
+  },
+  "value": 59.4488,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-11T10:00:00+01:00",
+    "utc": "2020-02-11T09:00:00.000Z"
+  },
+  "value": 63.5195,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-11T09:00:00+01:00",
+    "utc": "2020-02-11T08:00:00.000Z"
+  },
+  "value": 58.2511,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-11T08:00:00+01:00",
+    "utc": "2020-02-11T07:00:00.000Z"
+  },
+  "value": 45.3368,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-11T07:00:00+01:00",
+    "utc": "2020-02-11T06:00:00.000Z"
+  },
+  "value": 52.6788,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-11T06:00:00+01:00",
+    "utc": "2020-02-11T05:00:00.000Z"
+  },
+  "value": 70.6882,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-11T05:00:00+01:00",
+    "utc": "2020-02-11T04:00:00.000Z"
+  },
+  "value": 65.4069,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-11T04:00:00+01:00",
+    "utc": "2020-02-11T03:00:00.000Z"
+  },
+  "value": 67.2556,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-11T03:00:00+01:00",
+    "utc": "2020-02-11T02:00:00.000Z"
+  },
+  "value": 62.4183,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-11T02:00:00+01:00",
+    "utc": "2020-02-11T01:00:00.000Z"
+  },
+  "value": 60.6599,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-11T01:00:00+01:00",
+    "utc": "2020-02-11T00:00:00.000Z"
+  },
+  "value": 64.8996,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-11T00:00:00+01:00",
+    "utc": "2020-02-10T23:00:00.000Z"
+  },
+  "value": 70.4298,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-10T23:00:00+01:00",
+    "utc": "2020-02-10T22:00:00.000Z"
+  },
+  "value": 73.8512,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-10T22:00:00+01:00",
+    "utc": "2020-02-10T21:00:00.000Z"
+  },
+  "value": 72.7645,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-10T21:00:00+01:00",
+    "utc": "2020-02-10T20:00:00.000Z"
+  },
+  "value": 68.6175,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-10T20:00:00+01:00",
+    "utc": "2020-02-10T19:00:00.000Z"
+  },
+  "value": 66.9178,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-10T19:00:00+01:00",
+    "utc": "2020-02-10T18:00:00.000Z"
+  },
+  "value": 67.3006,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-10T18:00:00+01:00",
+    "utc": "2020-02-10T17:00:00.000Z"
+  },
+  "value": 66.9047,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-10T17:00:00+01:00",
+    "utc": "2020-02-10T16:00:00.000Z"
+  },
+  "value": 59.3419,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-10T16:00:00+01:00",
+    "utc": "2020-02-10T15:00:00.000Z"
+  },
+  "value": 68.0789,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-10T15:00:00+01:00",
+    "utc": "2020-02-10T14:00:00.000Z"
+  },
+  "value": 73.9621,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-10T14:00:00+01:00",
+    "utc": "2020-02-10T13:00:00.000Z"
+  },
+  "value": 75.6698,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-10T13:00:00+01:00",
+    "utc": "2020-02-10T12:00:00.000Z"
+  },
+  "value": 74.7325,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-10T12:00:00+01:00",
+    "utc": "2020-02-10T11:00:00.000Z"
+  },
+  "value": 68.2329,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-10T11:00:00+01:00",
+    "utc": "2020-02-10T10:00:00.000Z"
+  },
+  "value": 68.8759,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-10T10:00:00+01:00",
+    "utc": "2020-02-10T09:00:00.000Z"
+  },
+  "value": 55.6149,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-10T09:00:00+01:00",
+    "utc": "2020-02-10T08:00:00.000Z"
+  },
+  "value": 54.8289,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-10T08:00:00+01:00",
+    "utc": "2020-02-10T07:00:00.000Z"
+  },
+  "value": 63.3189,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-10T07:00:00+01:00",
+    "utc": "2020-02-10T06:00:00.000Z"
+  },
+  "value": 68.1862,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-10T06:00:00+01:00",
+    "utc": "2020-02-10T05:00:00.000Z"
+  },
+  "value": 70.2322,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-10T05:00:00+01:00",
+    "utc": "2020-02-10T04:00:00.000Z"
+  },
+  "value": 74.3542,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-10T04:00:00+01:00",
+    "utc": "2020-02-10T03:00:00.000Z"
+  },
+  "value": 76.6421,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-10T03:00:00+01:00",
+    "utc": "2020-02-10T02:00:00.000Z"
+  },
+  "value": 77.6741,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-10T02:00:00+01:00",
+    "utc": "2020-02-10T01:00:00.000Z"
+  },
+  "value": 77.0614,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-10T01:00:00+01:00",
+    "utc": "2020-02-10T00:00:00.000Z"
+  },
+  "value": 75.8755,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-10T00:00:00+01:00",
+    "utc": "2020-02-09T23:00:00.000Z"
+  },
+  "value": 76.4106,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-09T23:00:00+01:00",
+    "utc": "2020-02-09T22:00:00.000Z"
+  },
+  "value": 73.6423,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-09T22:00:00+01:00",
+    "utc": "2020-02-09T21:00:00.000Z"
+  },
+  "value": 71.8746,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-09T21:00:00+01:00",
+    "utc": "2020-02-09T20:00:00.000Z"
+  },
+  "value": 73.2048,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-09T20:00:00+01:00",
+    "utc": "2020-02-09T19:00:00.000Z"
+  },
+  "value": 68.7565,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-09T19:00:00+01:00",
+    "utc": "2020-02-09T18:00:00.000Z"
+  },
+  "value": 66.794,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-09T18:00:00+01:00",
+    "utc": "2020-02-09T17:00:00.000Z"
+  },
+  "value": 66.5932,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-09T17:00:00+01:00",
+    "utc": "2020-02-09T16:00:00.000Z"
+  },
+  "value": 66.352,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-09T16:00:00+01:00",
+    "utc": "2020-02-09T15:00:00.000Z"
+  },
+  "value": 69.085,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-09T15:00:00+01:00",
+    "utc": "2020-02-09T14:00:00.000Z"
+  },
+  "value": 67.9143,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-09T14:00:00+01:00",
+    "utc": "2020-02-09T13:00:00.000Z"
+  },
+  "value": 66.9067,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-09T13:00:00+01:00",
+    "utc": "2020-02-09T12:00:00.000Z"
+  },
+  "value": 61.2581,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-09T12:00:00+01:00",
+    "utc": "2020-02-09T11:00:00.000Z"
+  },
+  "value": 52.1759,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-09T11:00:00+01:00",
+    "utc": "2020-02-09T10:00:00.000Z"
+  },
+  "value": 55.1647,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-09T10:00:00+01:00",
+    "utc": "2020-02-09T09:00:00.000Z"
+  },
+  "value": 47.2011,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-09T09:00:00+01:00",
+    "utc": "2020-02-09T08:00:00.000Z"
+  },
+  "value": 43.2445,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-09T08:00:00+01:00",
+    "utc": "2020-02-09T07:00:00.000Z"
+  },
+  "value": 45.6073,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-09T07:00:00+01:00",
+    "utc": "2020-02-09T06:00:00.000Z"
+  },
+  "value": 49.5539,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-09T06:00:00+01:00",
+    "utc": "2020-02-09T05:00:00.000Z"
+  },
+  "value": 47.3072,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-09T05:00:00+01:00",
+    "utc": "2020-02-09T04:00:00.000Z"
+  },
+  "value": 48.3748,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-09T04:00:00+01:00",
+    "utc": "2020-02-09T03:00:00.000Z"
+  },
+  "value": 48.9878,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-09T03:00:00+01:00",
+    "utc": "2020-02-09T02:00:00.000Z"
+  },
+  "value": 48.457,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-09T02:00:00+01:00",
+    "utc": "2020-02-09T01:00:00.000Z"
+  },
+  "value": 49.2727,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-09T01:00:00+01:00",
+    "utc": "2020-02-09T00:00:00.000Z"
+  },
+  "value": 48.7455,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-09T00:00:00+01:00",
+    "utc": "2020-02-08T23:00:00.000Z"
+  },
+  "value": 46.8847,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-08T23:00:00+01:00",
+    "utc": "2020-02-08T22:00:00.000Z"
+  },
+  "value": 42.07,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-08T22:00:00+01:00",
+    "utc": "2020-02-08T21:00:00.000Z"
+  },
+  "value": 45.7182,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-08T21:00:00+01:00",
+    "utc": "2020-02-08T20:00:00.000Z"
+  },
+  "value": 46.8902,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-08T20:00:00+01:00",
+    "utc": "2020-02-08T19:00:00.000Z"
+  },
+  "value": 47.9087,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-08T19:00:00+01:00",
+    "utc": "2020-02-08T18:00:00.000Z"
+  },
+  "value": 48.661,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-08T18:00:00+01:00",
+    "utc": "2020-02-08T17:00:00.000Z"
+  },
+  "value": 48.864,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-08T17:00:00+01:00",
+    "utc": "2020-02-08T16:00:00.000Z"
+  },
+  "value": 53.1417,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-08T16:00:00+01:00",
+    "utc": "2020-02-08T15:00:00.000Z"
+  },
+  "value": 59.1863,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-08T15:00:00+01:00",
+    "utc": "2020-02-08T14:00:00.000Z"
+  },
+  "value": 58.3087,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-08T14:00:00+01:00",
+    "utc": "2020-02-08T13:00:00.000Z"
+  },
+  "value": 61.1605,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-08T13:00:00+01:00",
+    "utc": "2020-02-08T12:00:00.000Z"
+  },
+  "value": 54.3617,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-08T12:00:00+01:00",
+    "utc": "2020-02-08T11:00:00.000Z"
+  },
+  "value": 46.0223,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-08T11:00:00+01:00",
+    "utc": "2020-02-08T10:00:00.000Z"
+  },
+  "value": 38.3823,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-08T10:00:00+01:00",
+    "utc": "2020-02-08T09:00:00.000Z"
+  },
+  "value": 27.239,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-08T09:00:00+01:00",
+    "utc": "2020-02-08T08:00:00.000Z"
+  },
+  "value": 15.0276,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-08T08:00:00+01:00",
+    "utc": "2020-02-08T07:00:00.000Z"
+  },
+  "value": 13.9017,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-08T07:00:00+01:00",
+    "utc": "2020-02-08T06:00:00.000Z"
+  },
+  "value": 14.9702,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-08T06:00:00+01:00",
+    "utc": "2020-02-08T05:00:00.000Z"
+  },
+  "value": 16.8716,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-08T05:00:00+01:00",
+    "utc": "2020-02-08T04:00:00.000Z"
+  },
+  "value": 17.2412,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-08T04:00:00+01:00",
+    "utc": "2020-02-08T03:00:00.000Z"
+  },
+  "value": 16.954,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-08T03:00:00+01:00",
+    "utc": "2020-02-08T02:00:00.000Z"
+  },
+  "value": 18.3785,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-08T02:00:00+01:00",
+    "utc": "2020-02-08T01:00:00.000Z"
+  },
+  "value": 21.6681,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-08T01:00:00+01:00",
+    "utc": "2020-02-08T00:00:00.000Z"
+  },
+  "value": 29.159,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-08T00:00:00+01:00",
+    "utc": "2020-02-07T23:00:00.000Z"
+  },
+  "value": 33.1414,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-07T23:00:00+01:00",
+    "utc": "2020-02-07T22:00:00.000Z"
+  },
+  "value": 31.9617,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-07T22:00:00+01:00",
+    "utc": "2020-02-07T21:00:00.000Z"
+  },
+  "value": 29.7054,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-07T21:00:00+01:00",
+    "utc": "2020-02-07T20:00:00.000Z"
+  },
+  "value": 7.16252,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-07T20:00:00+01:00",
+    "utc": "2020-02-07T19:00:00.000Z"
+  },
+  "value": 12.4634,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-07T19:00:00+01:00",
+    "utc": "2020-02-07T18:00:00.000Z"
+  },
+  "value": 23.7516,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-07T18:00:00+01:00",
+    "utc": "2020-02-07T17:00:00.000Z"
+  },
+  "value": 52.4841,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-07T17:00:00+01:00",
+    "utc": "2020-02-07T16:00:00.000Z"
+  },
+  "value": 53.0865,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-07T16:00:00+01:00",
+    "utc": "2020-02-07T15:00:00.000Z"
+  },
+  "value": 56.3354,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-07T15:00:00+01:00",
+    "utc": "2020-02-07T14:00:00.000Z"
+  },
+  "value": 58.5964,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-07T14:00:00+01:00",
+    "utc": "2020-02-07T13:00:00.000Z"
+  },
+  "value": 52.8837,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-07T13:00:00+01:00",
+    "utc": "2020-02-07T12:00:00.000Z"
+  },
+  "value": 52.2,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-07T12:00:00+01:00",
+    "utc": "2020-02-07T11:00:00.000Z"
+  },
+  "value": 49.5244,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-07T11:00:00+01:00",
+    "utc": "2020-02-07T10:00:00.000Z"
+  },
+  "value": 39.455,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-07T10:00:00+01:00",
+    "utc": "2020-02-07T09:00:00.000Z"
+  },
+  "value": 30.25,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}
+{
+  "location": "Opole manualna 4",
+  "parameter": "o3",
+  "date": {
+    "local": "2020-02-07T09:00:00+01:00",
+    "utc": "2020-02-07T08:00:00.000Z"
+  },
+  "value": 28.0666,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 50.676856,
+    "longitude": 17.950278
+  },
+  "country": "PL",
+  "city": "Opole"
+}

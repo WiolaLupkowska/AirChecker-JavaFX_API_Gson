@@ -1,0 +1,1600 @@
+{
+  "location": "Warszawa-Komunikacyjna",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-11T08:00:00+01:00",
+    "utc": "2020-02-11T07:00:00.000Z"
+  },
+  "value": 50.42,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.219298,
+    "longitude": 21.004724
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Ursynów",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-11T08:00:00+01:00",
+    "utc": "2020-02-11T07:00:00.000Z"
+  },
+  "value": 21.25,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.160772,
+    "longitude": 21.033819
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Chrościckiego",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-11T08:00:00+01:00",
+    "utc": "2020-02-11T07:00:00.000Z"
+  },
+  "value": 21.01,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.207742,
+    "longitude": 20.906073
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Targówek",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-11T08:00:00+01:00",
+    "utc": "2020-02-11T07:00:00.000Z"
+  },
+  "value": 27.16,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.290864,
+    "longitude": 21.042458
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Chrościckiego",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-11T07:00:00+01:00",
+    "utc": "2020-02-11T06:00:00.000Z"
+  },
+  "value": 15.72,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.207742,
+    "longitude": 20.906073
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Ursynów",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-11T07:00:00+01:00",
+    "utc": "2020-02-11T06:00:00.000Z"
+  },
+  "value": 15.53,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.160772,
+    "longitude": 21.033819
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Targówek",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-11T07:00:00+01:00",
+    "utc": "2020-02-11T06:00:00.000Z"
+  },
+  "value": 18.88,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.290864,
+    "longitude": 21.042458
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Komunikacyjna",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-11T07:00:00+01:00",
+    "utc": "2020-02-11T06:00:00.000Z"
+  },
+  "value": 39.91,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.219298,
+    "longitude": 21.004724
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Ursynów",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-11T06:00:00+01:00",
+    "utc": "2020-02-11T05:00:00.000Z"
+  },
+  "value": 11.56,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.160772,
+    "longitude": 21.033819
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Chrościckiego",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-11T06:00:00+01:00",
+    "utc": "2020-02-11T05:00:00.000Z"
+  },
+  "value": 13.01,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.207742,
+    "longitude": 20.906073
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Targówek",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-11T06:00:00+01:00",
+    "utc": "2020-02-11T05:00:00.000Z"
+  },
+  "value": 12.14,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.290864,
+    "longitude": 21.042458
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Komunikacyjna",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-11T06:00:00+01:00",
+    "utc": "2020-02-11T05:00:00.000Z"
+  },
+  "value": 25.34,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.219298,
+    "longitude": 21.004724
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Chrościckiego",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-11T05:00:00+01:00",
+    "utc": "2020-02-11T04:00:00.000Z"
+  },
+  "value": 10.75,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.207742,
+    "longitude": 20.906073
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Komunikacyjna",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-11T05:00:00+01:00",
+    "utc": "2020-02-11T04:00:00.000Z"
+  },
+  "value": 15.5,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.219298,
+    "longitude": 21.004724
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Ursynów",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-11T05:00:00+01:00",
+    "utc": "2020-02-11T04:00:00.000Z"
+  },
+  "value": 10.02,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.160772,
+    "longitude": 21.033819
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Targówek",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-11T05:00:00+01:00",
+    "utc": "2020-02-11T04:00:00.000Z"
+  },
+  "value": 8.73,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.290864,
+    "longitude": 21.042458
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Ursynów",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-11T04:00:00+01:00",
+    "utc": "2020-02-11T03:00:00.000Z"
+  },
+  "value": 9.1,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.160772,
+    "longitude": 21.033819
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Komunikacyjna",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-11T04:00:00+01:00",
+    "utc": "2020-02-11T03:00:00.000Z"
+  },
+  "value": 12.26,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.219298,
+    "longitude": 21.004724
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Targówek",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-11T04:00:00+01:00",
+    "utc": "2020-02-11T03:00:00.000Z"
+  },
+  "value": 7.31,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.290864,
+    "longitude": 21.042458
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Chrościckiego",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-11T04:00:00+01:00",
+    "utc": "2020-02-11T03:00:00.000Z"
+  },
+  "value": 9.25,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.207742,
+    "longitude": 20.906073
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Komunikacyjna",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-11T03:00:00+01:00",
+    "utc": "2020-02-11T02:00:00.000Z"
+  },
+  "value": 9.55,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.219298,
+    "longitude": 21.004724
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Chrościckiego",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-11T03:00:00+01:00",
+    "utc": "2020-02-11T02:00:00.000Z"
+  },
+  "value": 6.67,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.207742,
+    "longitude": 20.906073
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Ursynów",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-11T03:00:00+01:00",
+    "utc": "2020-02-11T02:00:00.000Z"
+  },
+  "value": 10.17,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.160772,
+    "longitude": 21.033819
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Targówek",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-11T03:00:00+01:00",
+    "utc": "2020-02-11T02:00:00.000Z"
+  },
+  "value": 7.55,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.290864,
+    "longitude": 21.042458
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Targówek",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-11T02:00:00+01:00",
+    "utc": "2020-02-11T01:00:00.000Z"
+  },
+  "value": 6.7,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.290864,
+    "longitude": 21.042458
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Chrościckiego",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-11T02:00:00+01:00",
+    "utc": "2020-02-11T01:00:00.000Z"
+  },
+  "value": 7.82,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.207742,
+    "longitude": 20.906073
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Komunikacyjna",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-11T02:00:00+01:00",
+    "utc": "2020-02-11T01:00:00.000Z"
+  },
+  "value": 6.94,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.219298,
+    "longitude": 21.004724
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Ursynów",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-11T02:00:00+01:00",
+    "utc": "2020-02-11T01:00:00.000Z"
+  },
+  "value": 8.96,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.160772,
+    "longitude": 21.033819
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Targówek",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-11T01:00:00+01:00",
+    "utc": "2020-02-11T00:00:00.000Z"
+  },
+  "value": 6.9,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.290864,
+    "longitude": 21.042458
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Chrościckiego",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-11T01:00:00+01:00",
+    "utc": "2020-02-11T00:00:00.000Z"
+  },
+  "value": 10.31,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.207742,
+    "longitude": 20.906073
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Komunikacyjna",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-11T01:00:00+01:00",
+    "utc": "2020-02-11T00:00:00.000Z"
+  },
+  "value": 10.92,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.219298,
+    "longitude": 21.004724
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Ursynów",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-11T01:00:00+01:00",
+    "utc": "2020-02-11T00:00:00.000Z"
+  },
+  "value": 8.07,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.160772,
+    "longitude": 21.033819
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Chrościckiego",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-11T00:00:00+01:00",
+    "utc": "2020-02-10T23:00:00.000Z"
+  },
+  "value": 10.8,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.207742,
+    "longitude": 20.906073
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Ursynów",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-11T00:00:00+01:00",
+    "utc": "2020-02-10T23:00:00.000Z"
+  },
+  "value": 10.04,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.160772,
+    "longitude": 21.033819
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Targówek",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-11T00:00:00+01:00",
+    "utc": "2020-02-10T23:00:00.000Z"
+  },
+  "value": 9.05,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.290864,
+    "longitude": 21.042458
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Komunikacyjna",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-11T00:00:00+01:00",
+    "utc": "2020-02-10T23:00:00.000Z"
+  },
+  "value": 13.26,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.219298,
+    "longitude": 21.004724
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Komunikacyjna",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-10T23:00:00+01:00",
+    "utc": "2020-02-10T22:00:00.000Z"
+  },
+  "value": 16.43,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.219298,
+    "longitude": 21.004724
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Targówek",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-10T23:00:00+01:00",
+    "utc": "2020-02-10T22:00:00.000Z"
+  },
+  "value": 11.5,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.290864,
+    "longitude": 21.042458
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Chrościckiego",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-10T23:00:00+01:00",
+    "utc": "2020-02-10T22:00:00.000Z"
+  },
+  "value": 7.62,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.207742,
+    "longitude": 20.906073
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Ursynów",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-10T23:00:00+01:00",
+    "utc": "2020-02-10T22:00:00.000Z"
+  },
+  "value": 12.5,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.160772,
+    "longitude": 21.033819
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Targówek",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-10T22:00:00+01:00",
+    "utc": "2020-02-10T21:00:00.000Z"
+  },
+  "value": 14.25,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.290864,
+    "longitude": 21.042458
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Komunikacyjna",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-10T22:00:00+01:00",
+    "utc": "2020-02-10T21:00:00.000Z"
+  },
+  "value": 13.99,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.219298,
+    "longitude": 21.004724
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Chrościckiego",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-10T22:00:00+01:00",
+    "utc": "2020-02-10T21:00:00.000Z"
+  },
+  "value": 7.37,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.207742,
+    "longitude": 20.906073
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Ursynów",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-10T22:00:00+01:00",
+    "utc": "2020-02-10T21:00:00.000Z"
+  },
+  "value": 13.23,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.160772,
+    "longitude": 21.033819
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Targówek",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-10T21:00:00+01:00",
+    "utc": "2020-02-10T20:00:00.000Z"
+  },
+  "value": 24.17,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.290864,
+    "longitude": 21.042458
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Chrościckiego",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-10T21:00:00+01:00",
+    "utc": "2020-02-10T20:00:00.000Z"
+  },
+  "value": 7.7,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.207742,
+    "longitude": 20.906073
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Ursynów",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-10T21:00:00+01:00",
+    "utc": "2020-02-10T20:00:00.000Z"
+  },
+  "value": 12.37,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.160772,
+    "longitude": 21.033819
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Komunikacyjna",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-10T21:00:00+01:00",
+    "utc": "2020-02-10T20:00:00.000Z"
+  },
+  "value": 16.29,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.219298,
+    "longitude": 21.004724
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Komunikacyjna",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-10T20:00:00+01:00",
+    "utc": "2020-02-10T19:00:00.000Z"
+  },
+  "value": 18.97,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.219298,
+    "longitude": 21.004724
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Chrościckiego",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-10T20:00:00+01:00",
+    "utc": "2020-02-10T19:00:00.000Z"
+  },
+  "value": 9.63,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.207742,
+    "longitude": 20.906073
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Ursynów",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-10T20:00:00+01:00",
+    "utc": "2020-02-10T19:00:00.000Z"
+  },
+  "value": 15.1,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.160772,
+    "longitude": 21.033819
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Targówek",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-10T20:00:00+01:00",
+    "utc": "2020-02-10T19:00:00.000Z"
+  },
+  "value": 15.21,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.290864,
+    "longitude": 21.042458
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Ursynów",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-10T19:00:00+01:00",
+    "utc": "2020-02-10T18:00:00.000Z"
+  },
+  "value": 16.81,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.160772,
+    "longitude": 21.033819
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Komunikacyjna",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-10T19:00:00+01:00",
+    "utc": "2020-02-10T18:00:00.000Z"
+  },
+  "value": 26.51,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.219298,
+    "longitude": 21.004724
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Chrościckiego",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-10T19:00:00+01:00",
+    "utc": "2020-02-10T18:00:00.000Z"
+  },
+  "value": 11.7,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.207742,
+    "longitude": 20.906073
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Targówek",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-10T19:00:00+01:00",
+    "utc": "2020-02-10T18:00:00.000Z"
+  },
+  "value": 17.11,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.290864,
+    "longitude": 21.042458
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Komunikacyjna",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-10T18:00:00+01:00",
+    "utc": "2020-02-10T17:00:00.000Z"
+  },
+  "value": 30.55,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.219298,
+    "longitude": 21.004724
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Targówek",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-10T18:00:00+01:00",
+    "utc": "2020-02-10T17:00:00.000Z"
+  },
+  "value": 18.73,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.290864,
+    "longitude": 21.042458
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Chrościckiego",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-10T18:00:00+01:00",
+    "utc": "2020-02-10T17:00:00.000Z"
+  },
+  "value": 11.99,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.207742,
+    "longitude": 20.906073
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Ursynów",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-10T18:00:00+01:00",
+    "utc": "2020-02-10T17:00:00.000Z"
+  },
+  "value": 17.52,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.160772,
+    "longitude": 21.033819
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Ursynów",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-10T17:00:00+01:00",
+    "utc": "2020-02-10T16:00:00.000Z"
+  },
+  "value": 20.39,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.160772,
+    "longitude": 21.033819
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Komunikacyjna",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-10T17:00:00+01:00",
+    "utc": "2020-02-10T16:00:00.000Z"
+  },
+  "value": 46.11,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.219298,
+    "longitude": 21.004724
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Chrościckiego",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-10T17:00:00+01:00",
+    "utc": "2020-02-10T16:00:00.000Z"
+  },
+  "value": 20.64,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.207742,
+    "longitude": 20.906073
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Targówek",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-10T17:00:00+01:00",
+    "utc": "2020-02-10T16:00:00.000Z"
+  },
+  "value": 22.6,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.290864,
+    "longitude": 21.042458
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Chrościckiego",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-10T16:00:00+01:00",
+    "utc": "2020-02-10T15:00:00.000Z"
+  },
+  "value": 17.64,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.207742,
+    "longitude": 20.906073
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Targówek",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-10T16:00:00+01:00",
+    "utc": "2020-02-10T15:00:00.000Z"
+  },
+  "value": 28.74,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.290864,
+    "longitude": 21.042458
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Komunikacyjna",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-10T16:00:00+01:00",
+    "utc": "2020-02-10T15:00:00.000Z"
+  },
+  "value": 46.89,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.219298,
+    "longitude": 21.004724
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Ursynów",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-10T16:00:00+01:00",
+    "utc": "2020-02-10T15:00:00.000Z"
+  },
+  "value": 21.2,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.160772,
+    "longitude": 21.033819
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Chrościckiego",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-10T15:00:00+01:00",
+    "utc": "2020-02-10T14:00:00.000Z"
+  },
+  "value": 12.96,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.207742,
+    "longitude": 20.906073
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Ursynów",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-10T15:00:00+01:00",
+    "utc": "2020-02-10T14:00:00.000Z"
+  },
+  "value": 16.42,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.160772,
+    "longitude": 21.033819
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Targówek",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-10T15:00:00+01:00",
+    "utc": "2020-02-10T14:00:00.000Z"
+  },
+  "value": 24.19,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.290864,
+    "longitude": 21.042458
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Komunikacyjna",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-10T15:00:00+01:00",
+    "utc": "2020-02-10T14:00:00.000Z"
+  },
+  "value": 36.77,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.219298,
+    "longitude": 21.004724
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Komunikacyjna",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-10T14:00:00+01:00",
+    "utc": "2020-02-10T13:00:00.000Z"
+  },
+  "value": 35.16,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.219298,
+    "longitude": 21.004724
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Targówek",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-10T14:00:00+01:00",
+    "utc": "2020-02-10T13:00:00.000Z"
+  },
+  "value": 23.3,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.290864,
+    "longitude": 21.042458
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Chrościckiego",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-10T14:00:00+01:00",
+    "utc": "2020-02-10T13:00:00.000Z"
+  },
+  "value": 13.42,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.207742,
+    "longitude": 20.906073
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Ursynów",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-10T14:00:00+01:00",
+    "utc": "2020-02-10T13:00:00.000Z"
+  },
+  "value": 15.43,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.160772,
+    "longitude": 21.033819
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Ursynów",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-10T13:00:00+01:00",
+    "utc": "2020-02-10T12:00:00.000Z"
+  },
+  "value": 15.13,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.160772,
+    "longitude": 21.033819
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Chrościckiego",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-10T13:00:00+01:00",
+    "utc": "2020-02-10T12:00:00.000Z"
+  },
+  "value": 12.97,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.207742,
+    "longitude": 20.906073
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Targówek",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-10T13:00:00+01:00",
+    "utc": "2020-02-10T12:00:00.000Z"
+  },
+  "value": 20.32,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.290864,
+    "longitude": 21.042458
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Komunikacyjna",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-10T13:00:00+01:00",
+    "utc": "2020-02-10T12:00:00.000Z"
+  },
+  "value": 31.13,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.219298,
+    "longitude": 21.004724
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Ursynów",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-10T12:00:00+01:00",
+    "utc": "2020-02-10T11:00:00.000Z"
+  },
+  "value": 17.91,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.160772,
+    "longitude": 21.033819
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Targówek",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-10T12:00:00+01:00",
+    "utc": "2020-02-10T11:00:00.000Z"
+  },
+  "value": 18.98,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.290864,
+    "longitude": 21.042458
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Chrościckiego",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-10T12:00:00+01:00",
+    "utc": "2020-02-10T11:00:00.000Z"
+  },
+  "value": 12.1,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.207742,
+    "longitude": 20.906073
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Komunikacyjna",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-10T12:00:00+01:00",
+    "utc": "2020-02-10T11:00:00.000Z"
+  },
+  "value": 27.75,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.219298,
+    "longitude": 21.004724
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Komunikacyjna",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-10T11:00:00+01:00",
+    "utc": "2020-02-10T10:00:00.000Z"
+  },
+  "value": 42.64,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.219298,
+    "longitude": 21.004724
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Ursynów",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-10T11:00:00+01:00",
+    "utc": "2020-02-10T10:00:00.000Z"
+  },
+  "value": 17.25,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.160772,
+    "longitude": 21.033819
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Chrościckiego",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-10T11:00:00+01:00",
+    "utc": "2020-02-10T10:00:00.000Z"
+  },
+  "value": 15.62,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.207742,
+    "longitude": 20.906073
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Targówek",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-10T11:00:00+01:00",
+    "utc": "2020-02-10T10:00:00.000Z"
+  },
+  "value": 20.01,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.290864,
+    "longitude": 21.042458
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Komunikacyjna",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-10T10:00:00+01:00",
+    "utc": "2020-02-10T09:00:00.000Z"
+  },
+  "value": 46.6,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.219298,
+    "longitude": 21.004724
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Ursynów",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-10T10:00:00+01:00",
+    "utc": "2020-02-10T09:00:00.000Z"
+  },
+  "value": 21.07,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.160772,
+    "longitude": 21.033819
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Targówek",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-10T10:00:00+01:00",
+    "utc": "2020-02-10T09:00:00.000Z"
+  },
+  "value": 20.48,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.290864,
+    "longitude": 21.042458
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Chrościckiego",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-10T10:00:00+01:00",
+    "utc": "2020-02-10T09:00:00.000Z"
+  },
+  "value": 15.23,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.207742,
+    "longitude": 20.906073
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Komunikacyjna",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-10T09:00:00+01:00",
+    "utc": "2020-02-10T08:00:00.000Z"
+  },
+  "value": 44.61,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.219298,
+    "longitude": 21.004724
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Targówek",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-10T09:00:00+01:00",
+    "utc": "2020-02-10T08:00:00.000Z"
+  },
+  "value": 21.88,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.290864,
+    "longitude": 21.042458
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Chrościckiego",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-10T09:00:00+01:00",
+    "utc": "2020-02-10T08:00:00.000Z"
+  },
+  "value": 16.37,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.207742,
+    "longitude": 20.906073
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Ursynów",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-10T09:00:00+01:00",
+    "utc": "2020-02-10T08:00:00.000Z"
+  },
+  "value": 17.48,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.160772,
+    "longitude": 21.033819
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Komunikacyjna",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-10T08:00:00+01:00",
+    "utc": "2020-02-10T07:00:00.000Z"
+  },
+  "value": 43.48,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.219298,
+    "longitude": 21.004724
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Targówek",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-10T08:00:00+01:00",
+    "utc": "2020-02-10T07:00:00.000Z"
+  },
+  "value": 20.08,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.290864,
+    "longitude": 21.042458
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Chrościckiego",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-10T08:00:00+01:00",
+    "utc": "2020-02-10T07:00:00.000Z"
+  },
+  "value": 15.1,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.207742,
+    "longitude": 20.906073
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
+{
+  "location": "Warszawa-Ursynów",
+  "parameter": "no2",
+  "date": {
+    "local": "2020-02-10T08:00:00+01:00",
+    "utc": "2020-02-10T07:00:00.000Z"
+  },
+  "value": 15.24,
+  "unit": "µg/m³",
+  "coordinates": {
+    "latitude": 52.160772,
+    "longitude": 21.033819
+  },
+  "country": "PL",
+  "city": "Warszawa"
+}
